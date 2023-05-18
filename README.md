@@ -291,3 +291,4 @@ SELECT topic.id AS topic_id,title,description,created,name,profile FROM topic LE
 |        5 | MongoDB    | MongoDB is ...    | 2018-01-30 12:31:03 | egoing | developer                 |
 +----------+------------+-------------------+---------------------+--------+---------------------------+
 ```
+<a href='https://www.youtube.com/watch?v=h_XDmyz--0w&list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW&index=2'>참고 강의</a>
