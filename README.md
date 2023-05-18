@@ -1,6 +1,6 @@
 # MySQL_Basic
 
-# MySQL(Database2)
+## MySQL(Database2)
 ```
 # At Mysql Shell
 \sql
